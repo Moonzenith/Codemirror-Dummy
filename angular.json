@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Codemirror-Dummy"
+    }
+  },
+  "defaultProject": "Codemirror-Dummy",
+  "cli": {
+    "analytics": false
+  }
 }
